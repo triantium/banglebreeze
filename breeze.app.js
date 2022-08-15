@@ -1,6 +1,7 @@
 
 
-let bands = [{band:"VOODOO KISS",start:"2022-08-16T17:00:00",end:"2022-08-16T17:30:00",stage:"Party",highlight:false},{band:"CRACK UP",start:"2022-08-16T18:00:00",end:"2022-08-16T18:30:00",stage:"Party",highlight:false},{band:"APOPHIS",start:"2022-08-16T19:00:00",end:"2022-08-16T19:45:00",stage:"Party",highlight:false},{band:"FLESHCRAWL",start:"2022-08-16T20:15:00",end:"2022-08-16T21:15:00",stage:"Party",highlight:false},{band:"END OF GREEN",start:"2022-08-16T21:45:00",end:"2022-08-16T23:00:00",stage:"Party",highlight:false},{band:"RAISED FIST",start:"2022-08-17T16:10",end:"2022-08-17T17:10",stage:"Main",highlight:false},{band:"CALIBAN",start:"2022-08-17T17:40",end:"2022-08-17T18:40",stage:"Main",highlight:false},{band:"FEUERSCHWANZ",start:"2022-08-17T19:10",end:"2022-08-17T20:30",stage:"Main",highlight:false},{band:"EISBRECHER",start:"2022-08-17T21:15",end:"2022-08-17T22:45",stage:"Main",highlight:false},{band:"KORPIKLAANI",start:"2022-08-17T23:25",end:"2022-08-18T00:35",stage:"Main",highlight:false},{band:"APOK. REITER",start:"2022-08-18T01:00",end:"2022-08-18T02:00",stage:"Main",highlight:false},{band:"BLASMUSIK",start:"2022-08-17T15:00",end:"2022-08-17T16:00",stage:"T-Stage",highlight:false},{band:"PALLBEARER",start:"2022-08-17T16:50",end:"2022-08-17T17:35",stage:"T-Stage",highlight:false},{band:"EXODUS",start:"2022-08-17T18:25",end:"2022-08-17T19:10",stage:"T-Stage",highlight:false},{band:"TESTAMENT",start:"2022-08-17T20:00",end:"2022-08-17T21:00",stage:"T-Stage",highlight:false},{band:"PARADISE LOST",start:"2022-08-17T21:50",end:"2022-08-17T22:50",stage:"T-Stage",highlight:false},{band:"FLESHGOD APOCALYPSE",start:"2022-08-17T23:40",end:"2022-08-18T00:25",stage:"T-Stage",highlight:false},{band:"TURBOBIER",start:"2022-08-18T01:15",end:"2022-08-18T02:15",stage:"T-Stage",highlight:false},{band:"SIAMESE",start:"2022-08-17T16:05",end:"2022-08-17T16:45",stage:"Wera",highlight:false},{band:"URNE",start:"2022-08-17T17:40",end:"2022-08-17T18:20",stage:"Wera",highlight:false},{band:"PALEFACE",start:"2022-08-17T19:15",end:"2022-08-17T19:55",stage:"Wera",highlight:false},{band:"OUR PROMISE",start:"2022-08-17T21:05",end:"2022-08-17T21:45",stage:"Wera",highlight:false},{band:"SVALBARD",start:"2022-08-17T22:55",end:"2022-08-17T23:35",stage:"Wera",highlight:false},{band:"NYRST",start:"2022-08-18T00:30",end:"2022-08-18T01:10",stage:"Wera",highlight:false},{band:"SPASM",start:"2022-08-18T02:20",end:"2022-08-18T03:00",stage:"Wera",highlight:false},{band:"MORBID ALCOHOLICA",start:"2022-08-17T17:00",end:"2022-08-17T17:40",stage:"Party",highlight:false},{band:"GUTRECTOMY",start:"2022-08-17T18:10",end:"2022-08-17T18:50",stage:"Party",highlight:false},{band:"HAWXX",start:"2022-08-17T19:20",end:"2022-08-17T20:00",stage:"Party",highlight:false},{band:"THE PROPHECY 23",start:"2022-08-17T20:30",end:"2022-08-17T21:10",stage:"Party",highlight:false},{band:"THE OTHER",start:"2022-08-17T21:40",end:"2022-08-17T22:20",stage:"Party",highlight:false},{band:"1914",start:"2022-08-17T22:50",end:"2022-08-17T23:30",stage:"Party",highlight:true}];
+let bands = require("Storage").readJSON('runningorder.json',false);
+
 
 
 function zeroPad(num, places) {
@@ -45,7 +46,7 @@ function draw() {
     filtered.sort((a,b)=>{return a.starttime - b.starttime;});
 
     for (let index in filtered){
-        if (index>=8) break;
+        if (index>=9) break;
         band=filtered[index];
         let starttime=`${zeroPad(band.starttime.getHours(),2)}:${zeroPad(band.starttime.getMinutes(),2)}`;
         g.setFont("6x8");
