@@ -35,8 +35,9 @@ function drawBands( bands){
         } else {
             g.clearRect(60, vertPos - 7, 64, vertPos - 2);
         }
+        // Finally got rid of the overhanging text
         let bandpadded = band.band.padEnd(20);
-        g.drawString(bandpadded, 69, vertPos, true /*clear background*/);
+        g.drawString(bandpadded, 69, vertPos,true);
     }
 }
 
