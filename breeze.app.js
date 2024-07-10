@@ -32,8 +32,11 @@ function drawBands( bands){
         g.drawString(band.stage.substring(0, 4), 35, vertPos, true /*clear background*/);
         if (band.highlight) {
             g.drawRect(60, vertPos - 7, 64, vertPos - 2);
+        } else {
+            g.clearRect(60, vertPos - 7, 64, vertPos - 2);
         }
-        g.drawString(band.band, 69, vertPos, true /*clear background*/);
+        let bandpadded = band.band.padEnd(20);
+        g.drawString(bandpadded, 69, vertPos, true /*clear background*/);
     }
 }
 
@@ -51,6 +54,8 @@ function draw() {
     const time = (" " + h).substr(-2) + ":" + ("0" + m).substr(-2);
     // Reset the state of the graphics library
     g.reset();
+    // Set Background black
+    g.setBgColor(0,0,0);
     // draw the current time (4x size 7 segment)
     g.setFont("7x11Numeric7Seg", 4);
     g.setFontAlign(0, 1);
@@ -67,7 +72,11 @@ function draw() {
     });
 
     filtered.sort((a, b) => {
-        return a.starttime - b.starttime;
+        let order = a.starttime - b.starttime;
+        if (order === 0){
+            return a.endtime - b.endtime;
+        }
+        return order;
     });
 
     drawBands(filtered);
