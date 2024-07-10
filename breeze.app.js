@@ -1,5 +1,14 @@
-let bands = require("Storage").readJSON('runningorder.json', false);
+// Load fonts
+require("Font7x11Numeric7Seg").add(Graphics);
+// position on screen
+const X = g.getWidth() / 2, Y = 70;
 
+
+let bands = require("Storage").readJSON('runningorder.json', true); // just check undefined afterwards
+
+if (bands === undefined ) {
+    bands = [];
+}
 
 function zeroPad(num, places) {
     var zero = places - num.toString().length + 1;
@@ -7,16 +16,33 @@ function zeroPad(num, places) {
 }
 
 
+function drawBands( bands){
+
+    // clear up bandspace
+    g.clearRect(0 , Y + 24 ,175 , 175);
+
+    for (let index in bands) {
+        if (index >= 9) break;
+        band = bands[index];
+        let starttime = `${zeroPad(band.starttime.getHours(), 2)}:${zeroPad(band.starttime.getMinutes(), 2)}`;
+        g.setFont("6x8");
+        g.setFontAlign(-1, 1); // align center bottom
+        let vertPos = Y + (24 + (10 * index));
+        g.drawString(starttime, 0, vertPos, true /*clear background*/);
+        g.drawString(band.stage.substring(0, 4), 35, vertPos, true /*clear background*/);
+        if (band.highlight) {
+            g.drawRect(60, vertPos - 7, 64, vertPos - 2);
+        }
+        g.drawString(band.band, 69, vertPos, true /*clear background*/);
+    }
+}
+
 for (var band in bands) {
     bands[band].starttime = new Date(bands[band].start);
     bands[band].endtime = new Date(bands[band].end);
 }
 
 
-// Load fonts
-require("Font7x11Numeric7Seg").add(Graphics);
-// position on screen
-const X = g.getWidth() / 2, Y = 70;
 
 function draw() {
     // work out how to display the current time
@@ -44,20 +70,8 @@ function draw() {
         return a.starttime - b.starttime;
     });
 
-    for (let index in filtered) {
-        if (index >= 9) break;
-        band = filtered[index];
-        let starttime = `${zeroPad(band.starttime.getHours(), 2)}:${zeroPad(band.starttime.getMinutes(), 2)}`;
-        g.setFont("6x8");
-        g.setFontAlign(-1, 1); // align center bottom
-        let vertPos = Y + (24 + (10 * index));
-        g.drawString(starttime, 0, vertPos, true /*clear background*/);
-        g.drawString(band.stage.substring(0, 4), 35, vertPos, true /*clear background*/);
-        if (band.highlight) {
-            g.drawRect(60, vertPos - 7, 64, vertPos - 2);
-        }
-        g.drawString(band.band, 69, vertPos, true /*clear background*/);
-    }
+    drawBands(filtered);
+
 }
 
 // Clear the screen once, at startup
