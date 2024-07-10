@@ -1,343 +1,343 @@
 [
   {
     "band": "SOULPRISON",
-    "start": "2024-08-13T17:00:00",
-    "end": "2024-08-13T17:45:00",
+    "start": "2024-08-13T17:00:00Z+0200",
+    "end": "2024-08-13T17:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FALL OF SERENITY",
-    "start": "2024-08-13T18:15:00",
-    "end": "2024-08-13T19:00:00",
+    "start": "2024-08-13T18:15:00Z+0200",
+    "end": "2024-08-13T19:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DEFOCUS",
-    "start": "2024-08-13T19:30:00",
-    "end": "2024-08-13T20:15:00",
+    "start": "2024-08-13T19:30:00Z+0200",
+    "end": "2024-08-13T20:15:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SHREDHEAD",
-    "start": "2024-08-13T20:45:00",
-    "end": "2024-08-13T21:30:00",
+    "start": "2024-08-13T20:45:00Z+0200",
+    "end": "2024-08-13T21:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DISBELIEF",
-    "start": "2024-08-13T22:00:00",
-    "end": "2024-08-13T23:00:00",
+    "start": "2024-08-13T22:00:00Z+0200",
+    "end": "2024-08-13T23:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Q&A DARK TRANQUILLITY",
-    "start": "2024-08-13T23:30:00",
-    "end": "2024-08-14T00:30:00",
+    "start": "2024-08-13T23:30:00Z+0200",
+    "end": "2024-08-14T00:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BROTHERS OF METAL",
-    "start": "2024-08-14T16:10:00",
-    "end": "2024-08-14T17:10:00",
+    "start": "2024-08-14T16:10:00Z+0200",
+    "end": "2024-08-14T17:10:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE AMITY AFFLICTION",
-    "start": "2024-08-14T17:40:00",
-    "end": "2024-08-14T18:40:00",
+    "start": "2024-08-14T17:40:00Z+0200",
+    "end": "2024-08-14T18:40:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FLOGGING MOLLY",
-    "start": "2024-08-14T19:10:00",
-    "end": "2024-08-14T20:30:00",
+    "start": "2024-08-14T19:10:00Z+0200",
+    "end": "2024-08-14T20:30:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MESHUGGAH",
-    "start": "2024-08-14T21:15:00",
-    "end": "2024-08-14T22:45:00",
+    "start": "2024-08-14T21:15:00Z+0200",
+    "end": "2024-08-14T22:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "LORD OF THE LOST",
-    "start": "2024-08-14T23:25:00",
-    "end": "2024-08-15T00:35:00",
+    "start": "2024-08-14T23:25:00Z+0200",
+    "end": "2024-08-15T00:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ENSLAVED",
-    "start": "2024-08-145T01:00:00",
-    "end": "2024-08-15T02:00:00",
+    "start": "2024-08-145T01:00:00Z+0200",
+    "end": "2024-08-15T02:00:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BLASMUSIK ILLENSCHWANG",
-    "start": "2024-08-14T15:00:00",
-    "end": "2024-08-14T16:00:00",
+    "start": "2024-08-14T15:00:00Z+0200",
+    "end": "2024-08-14T16:00:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SYLOSIS",
-    "start": "2024-08-14T116:50:00",
-    "end": "2024-08-14T17:35:00",
+    "start": "2024-08-14T116:50:00Z+0200",
+    "end": "2024-08-14T17:35:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "OBSCURA",
-    "start": "2024-08-14T18:25:00",
-    "end": "2024-08-14T19:10:00",
+    "start": "2024-08-14T18:25:00Z+0200",
+    "end": "2024-08-14T19:10:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EMMURE",
-    "start": "2024-08-14T20:00:00",
-    "end": "2024-08-14T20:45:00",
+    "start": "2024-08-14T20:00:00Z+0200",
+    "end": "2024-08-14T20:45:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EQUILIBRIUM",
-    "start": "2024-08-14T21:35:00",
-    "end": "2024-08-14T22:35:00",
+    "start": "2024-08-14T21:35:00Z+0200",
+    "end": "2024-08-14T22:35:00Z+0200",
     "stage": "T-Stage",
     "priority": 8,
     "highlight": true
   },
   {
     "band": "PAIN",
-    "start": "2024-08-14T23:25:00",
-    "end": "2024-08-15T00:25:00",
+    "start": "2024-08-14T23:25:00Z+0200",
+    "end": "2024-08-15T00:25:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "PUNK ROCK FACTORY",
-    "start": "2024-08-15T01:15:00",
-    "end": "2024-08-15T02:15:00",
+    "start": "2024-08-15T01:15:00Z+0200",
+    "end": "2024-08-15T02:15:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "PEST CONTROL",
-    "start": "2024-08-14T16:05:00",
-    "end": "2024-08-14T16:45:00",
+    "start": "2024-08-14T16:05:00Z+0200",
+    "end": "2024-08-14T16:45:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ANKOR",
-    "start": "2024-08-14T17:40:00",
-    "end": "2024-08-14T18:20:00",
+    "start": "2024-08-14T17:40:00Z+0200",
+    "end": "2024-08-14T18:20:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "VISCERA",
-    "start": "2024-08-14T19:15:00",
-    "end": "2024-08-14T19:55:00",
+    "start": "2024-08-14T19:15:00Z+0200",
+    "end": "2024-08-14T19:55:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NAKKEKNAEKKER",
-    "start": "2024-08-14T20:50:00",
-    "end": "2024-08-14T21:30:00",
+    "start": "2024-08-14T20:50:00Z+0200",
+    "end": "2024-08-14T21:30:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Surprise Act",
-    "start": "2024-08-14T22:40:00",
-    "end": "2024-08-14T23:20:00",
+    "start": "2024-08-14T22:40:00Z+0200",
+    "end": "2024-08-14T23:20:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THRON",
-    "start": "2024-08-15T00:30:00",
-    "end": "2024-08-15T01:10:00",
+    "start": "2024-08-15T00:30:00Z+0200",
+    "end": "2024-08-15T01:10:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "AETHERIAN",
-    "start": "2024-08-15T02:20:00",
-    "end": "2024-08-15T03:00:00",
+    "start": "2024-08-15T02:20:00Z+0200",
+    "end": "2024-08-15T03:00:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 7,
     "highlight": true
   },
   {
     "band": "ZERRE",
-    "start": "2024-08-14T18:00:00",
-    "end": "2024-08-14T18:30:00",
+    "start": "2024-08-14T18:00:00Z+0200",
+    "end": "2024-08-14T18:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SUOTANA",
-    "start": "2024-08-14T19:00:00",
-    "end": "2024-08-14T19:30:00",
+    "start": "2024-08-14T19:00:00Z+0200",
+    "end": "2024-08-14T19:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "PLAGUEMACE",
-    "start": "2024-08-14T20:00:00",
-    "end": "2024-08-14T20:30:00",
+    "start": "2024-08-14T20:00:00Z+0200",
+    "end": "2024-08-14T20:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EMBRACE YOUR PUNISHMENT",
-    "start": "2024-08-14T21:00:00",
-    "end": "2024-08-14T21:30:00",
+    "start": "2024-08-14T21:00:00Z+0200",
+    "end": "2024-08-14T21:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "HEMELBESTORMER",
-    "start": "2024-08-14T22:00:00",
-    "end": "2024-08-14T22:30:00",
+    "start": "2024-08-14T22:00:00Z+0200",
+    "end": "2024-08-14T22:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SPIRE OF LAZARUS",
-    "start": "2024-08-14T23:00:00",
-    "end": "2024-08-14T23:45:00",
+    "start": "2024-08-14T23:00:00Z+0200",
+    "end": "2024-08-14T23:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FATEFUL FINALITY",
-    "start": "2024-08-15T00:15:00",
-    "end": "2024-08-15T01:00:00",
+    "start": "2024-08-15T00:15:00Z+0200",
+    "end": "2024-08-15T01:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "",
-    "start": "2024-08-15T:00",
-    "end": "2024-08-15T:00",
+    "start": "2024-08-15T:00Z+0200",
+    "end": "2024-08-15T:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "CRYPTA",
-    "start": "2024-08-15T12:00:00",
-    "end": "2024-08-15T12:40:00",
+    "start": "2024-08-15T12:00:00Z+0200",
+    "end": "2024-08-15T12:40:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DYNAZTY",
-    "start": "2024-08-15T12:55:00",
-    "end": "2024-08-15T13:35:00",
+    "start": "2024-08-15T12:55:00Z+0200",
+    "end": "2024-08-15T13:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE BABOON SHOW",
-    "start": "2024-08-15T15:00:00",
-    "end": "2024-08-15T14:35:00",
+    "start": "2024-08-15T15:00:00Z+0200",
+    "end": "2024-08-15T14:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE BLACK DAHLIA MURDER",
-    "start": "2024-08-15T15:00:00",
-    "end": "2024-08-15T15:45:00",
+    "start": "2024-08-15T15:00:00Z+0200",
+    "end": "2024-08-15T15:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 10,
     "highlight": true
   },
   {
     "band": "J.B.O.",
-    "start": "2024-08-15T16:10:00",
-    "end": "2024-08-15T17:10:00",
+    "start": "2024-08-15T16:10:00Z+0200",
+    "end": "2024-08-15T17:10:00Z+0200",
     "stage": "Main Stage",
     "priority": 5,
     "highlight": false
   },
   {
     "band": "JINJER",
-    "start": "2024-08-15T17:40:00",
-    "end": "2024-08-15T18:40:00",
+    "start": "2024-08-15T17:40:00Z+0200",
+    "end": "2024-08-15T18:40:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "BEHEMOTH",
-    "start": "2024-08-15T19:10:00",
-    "end": "2024-08-15T20:30:00",
+    "start": "2024-08-15T19:10:00Z+0200",
+    "end": "2024-08-15T20:30:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "ARCHITECTS",
-    "start": "2024-08-15T21:15:00",
-    "end": "2024-08-15T22:45:00",
+    "start": "2024-08-15T21:15:00Z+0200",
+    "end": "2024-08-15T22:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 7,
     "highlight": false
   },
   {
     "band": "DARK TRANQUILLITY",
-    "start": "2024-08-15T23:25:00",
+    "start": "2024-08-15T23:25:00Z+0200",
     "end": "2024-08-16T00:35",
     "stage": "Main Stage",
     "priority": 0,
@@ -345,824 +345,824 @@
   },
   {
     "band": "EXODUS",
-    "start": "2024-08-16T01:00:00",
-    "end": "2024-08-16T02:00:00",
+    "start": "2024-08-16T01:00:00Z+0200",
+    "end": "2024-08-16T02:00:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DUST BOLT",
-    "start": "2024-08-15T11:30:00",
-    "end": "2024-08-15T12:15:00",
+    "start": "2024-08-15T11:30:00Z+0200",
+    "end": "2024-08-15T12:15:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MENTAL CRUELTY",
-    "start": "2024-08-15T12:55:00",
-    "end": "2024-08-15T13:40:00",
+    "start": "2024-08-15T12:55:00Z+0200",
+    "end": "2024-08-15T13:40:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "PALEFACE swiss",
-    "start": "2024-08-15T14:20:00",
-    "end": "2024-08-15T15:05:00",
+    "start": "2024-08-15T14:20:00Z+0200",
+    "end": "2024-08-15T15:05:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ABORTED",
-    "start": "2024-08-15T15:45:00",
-    "end": "2024-08-15T16:30:00",
+    "start": "2024-08-15T15:45:00Z+0200",
+    "end": "2024-08-15T16:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BLIND CHANNEL",
-    "start": "2024-08-15T17:10:00",
-    "end": "2024-08-15T17:55:00",
+    "start": "2024-08-15T17:10:00Z+0200",
+    "end": "2024-08-15T17:55:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BORN OF OSIRIS",
-    "start": "2024-08-15T18:35:00",
-    "end": "2024-08-15T19:35:00",
+    "start": "2024-08-15T18:35:00Z+0200",
+    "end": "2024-08-15T19:35:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MADBALL",
-    "start": "2024-08-15T20:30:00",
-    "end": "2024-08-15T21:30:00",
+    "start": "2024-08-15T20:30:00Z+0200",
+    "end": "2024-08-15T21:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ROTTING CHRIST",
-    "start": "2024-08-15T22:25:00",
-    "end": "2024-08-15T23:25:00",
+    "start": "2024-08-15T22:25:00Z+0200",
+    "end": "2024-08-15T23:25:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE OCEAN",
-    "start": "2024-08-16T00:20:00",
-    "end": "2024-08-15T01:20:00",
+    "start": "2024-08-16T00:20:00Z+0200",
+    "end": "2024-08-15T01:20:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NACHTBLUT",
-    "start": "2024-08-16T02:15:00",
-    "end": "2024-08-16T03:00:00",
+    "start": "2024-08-16T02:15:00Z+0200",
+    "end": "2024-08-16T03:00:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "IGNEA",
-    "start": "2024-08-15T12:20:00",
-    "end": "2024-08-15T12:50:00",
+    "start": "2024-08-15T12:20:00Z+0200",
+    "end": "2024-08-15T12:50:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE NIGHT ETERNAL",
-    "start": "2024-08-15T13:45:00",
-    "end": "2024-08-15T14:15:00",
+    "start": "2024-08-15T13:45:00Z+0200",
+    "end": "2024-08-15T14:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MOON SHOT",
-    "start": "2024-08-15T15:10:00",
-    "end": "2024-08-15T15:40:00",
+    "start": "2024-08-15T15:10:00Z+0200",
+    "end": "2024-08-15T15:40:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FIXATION",
-    "start": "2024-08-15T16:35:00",
-    "end": "2024-08-15T17:05:00",
+    "start": "2024-08-15T16:35:00Z+0200",
+    "end": "2024-08-15T17:05:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "GUILT TRIP",
-    "start": "2024-08-15T18:00:00",
-    "end": "2024-08-15T18:30:00",
+    "start": "2024-08-15T18:00:00Z+0200",
+    "end": "2024-08-15T18:30:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "JESUS PIECE",
-    "start": "2024-08-15T19:40:00",
-    "end": "2024-08-15T20:25:00",
+    "start": "2024-08-15T19:40:00Z+0200",
+    "end": "2024-08-15T20:25:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EVIL INVADERS",
-    "start": "2024-08-15T21:35:00",
-    "end": "2024-08-15T22:20:00",
+    "start": "2024-08-15T21:35:00Z+0200",
+    "end": "2024-08-15T22:20:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "HERETOIR",
-    "start": "2024-08-15T23:30:00",
-    "end": "2024-08-16T00:15:00",
+    "start": "2024-08-15T23:30:00Z+0200",
+    "end": "2024-08-16T00:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SIAMESE",
-    "start": "2024-08-16T01:25:00",
-    "end": "2024-08-16T02:10:00",
+    "start": "2024-08-16T01:25:00Z+0200",
+    "end": "2024-08-16T02:10:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Metal Yoga",
-    "start": "2024-08-15T12:30:00",
-    "end": "2024-08-15T13:30:00",
+    "start": "2024-08-15T12:30:00Z+0200",
+    "end": "2024-08-15T13:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SLOW FALL",
-    "start": "2024-08-15T15:30:00",
-    "end": "2024-08-15T16:15:00",
+    "start": "2024-08-15T15:30:00Z+0200",
+    "end": "2024-08-15T16:15:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "LEAVE.",
-    "start": "2024-08-15T16:45:00",
-    "end": "2024-08-15T17:30:00",
+    "start": "2024-08-15T16:45:00Z+0200",
+    "end": "2024-08-15T17:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "HAND OF JUNO",
-    "start": "2024-08-15T18:00:00",
-    "end": "2024-08-15T18:45:00",
+    "start": "2024-08-15T18:00:00Z+0200",
+    "end": "2024-08-15T18:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ERDLING",
-    "start": "2024-08-15T19:15:00",
-    "end": "2024-08-15T20:00:00",
+    "start": "2024-08-15T19:15:00Z+0200",
+    "end": "2024-08-15T20:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 5,
     "highlight": true
   },
   {
     "band": "IMPALEMENT",
-    "start": "2024-08-15T21:00:00",
-    "end": "2024-08-15T21:45:00",
+    "start": "2024-08-15T21:00:00Z+0200",
+    "end": "2024-08-15T21:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "KUPFERGOLD",
-    "start": "2024-08-15T22:15:00",
-    "end": "2024-08-15T23:00:00",
+    "start": "2024-08-15T22:15:00Z+0200",
+    "end": "2024-08-15T23:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Disco",
-    "start": "2024-08-15T23:00:00",
-    "end": "2024-08-16T01:30:00",
+    "start": "2024-08-15T23:00:00Z+0200",
+    "end": "2024-08-16T01:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FUTURE PALACE",
-    "start": "2024-08-16T12:00:00",
-    "end": "2024-08-16T12:55:00",
+    "start": "2024-08-16T12:00:00Z+0200",
+    "end": "2024-08-16T12:55:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "WARKINGS",
-    "start": "2024-08-16T12:55:00",
-    "end": "2024-08-16T13:35:00",
+    "start": "2024-08-16T12:55:00Z+0200",
+    "end": "2024-08-16T13:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MEGAHERZ",
-    "start": "2024-08-16T13:35:00",
-    "end": "2024-08-16T14:35:00",
+    "start": "2024-08-16T13:35:00Z+0200",
+    "end": "2024-08-16T14:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NEAERA",
-    "start": "2024-08-16T15:00:00",
-    "end": "2024-08-16T15:45:00",
+    "start": "2024-08-16T15:00:00Z+0200",
+    "end": "2024-08-16T15:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DELAIN",
-    "start": "2024-08-16T16:10:00",
-    "end": "2024-08-16T17:10:00",
+    "start": "2024-08-16T16:10:00Z+0200",
+    "end": "2024-08-16T17:10:00Z+0200",
     "stage": "Main Stage",
     "priority": 6,
     "highlight": true
   },
   {
     "band": "MOTIONLESS IN WHITE",
-    "start": "2024-08-16T17:40:00",
-    "end": "2024-08-16T18:40:00",
+    "start": "2024-08-16T17:40:00Z+0200",
+    "end": "2024-08-16T18:40:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "FEUERSCHWANZ",
-    "start": "2024-08-16T19:10:00",
-    "end": "2024-08-16T20:30:00",
+    "start": "2024-08-16T19:10:00Z+0200",
+    "end": "2024-08-16T20:30:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "AMON AMARTH",
-    "start": "2024-08-16T21:15:00",
-    "end": "2024-08-16T22:45:00",
+    "start": "2024-08-16T21:15:00Z+0200",
+    "end": "2024-08-16T22:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "LORDI",
-    "start": "2024-08-16T23:25:00",
-    "end": "2024-08-17T00:35:00",
+    "start": "2024-08-16T23:25:00Z+0200",
+    "end": "2024-08-17T00:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 10,
     "highlight": true
   },
   {
     "band": "MOONSPELL",
-    "start": "2024-08-17T01:00:00",
-    "end": "2024-08-17T02:00:00",
+    "start": "2024-08-17T01:00:00Z+0200",
+    "end": "2024-08-17T02:00:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "SVALBARD",
-    "start": "2024-08-16T11:30:00",
-    "end": "2024-08-16T12:15:00",
+    "start": "2024-08-16T11:30:00Z+0200",
+    "end": "2024-08-16T12:15:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DISTANT",
-    "start": "2024-08-16T12:55:00",
-    "end": "2024-08-16T13:40:00",
+    "start": "2024-08-16T12:55:00Z+0200",
+    "end": "2024-08-16T13:40:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "THE BUTCHER SISTERS",
-    "start": "2024-08-16T14:20:00",
-    "end": "2024-08-16T15:05:00",
+    "start": "2024-08-16T14:20:00Z+0200",
+    "end": "2024-08-16T15:05:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EINHERJER",
-    "start": "2024-08-16T15:45:00",
-    "end": "2024-08-16T16:30:00",
+    "start": "2024-08-16T15:45:00Z+0200",
+    "end": "2024-08-16T16:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MEMORIAM",
-    "start": "2024-08-16T17:10:00",
-    "end": "2024-08-16T17:55:00",
+    "start": "2024-08-16T17:10:00Z+0200",
+    "end": "2024-08-16T17:55:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "WHITECHAPEL",
-    "start": "2024-08-16T18:35:00",
-    "end": "2024-08-16T19:35:00",
+    "start": "2024-08-16T18:35:00Z+0200",
+    "end": "2024-08-16T19:35:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "CALLEJON",
-    "start": "2024-08-16T20:30:00",
-    "end": "2024-08-16T21:30:00",
+    "start": "2024-08-16T20:30:00Z+0200",
+    "end": "2024-08-16T21:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "CRADLE OF FILTH",
-    "start": "2024-08-16T22:25:00",
-    "end": "2024-08-16T23:25:00",
+    "start": "2024-08-16T22:25:00Z+0200",
+    "end": "2024-08-16T23:25:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "KAMPFAR",
-    "start": "2024-08-17T00:20:00",
-    "end": "2024-08-17T01:20:00",
+    "start": "2024-08-17T00:20:00Z+0200",
+    "end": "2024-08-17T01:20:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NECROPHOBIC",
-    "start": "2024-08-17T02:15:00",
-    "end": "2024-08-17T03:00:00",
+    "start": "2024-08-17T02:15:00Z+0200",
+    "end": "2024-08-17T03:00:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ALCHEMIA",
-    "start": "2024-08-16T12:20:00",
-    "end": "2024-08-16T12:50:00",
+    "start": "2024-08-16T12:20:00Z+0200",
+    "end": "2024-08-16T12:50:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "VOODOO KISS",
-    "start": "2024-08-16T13:45:00",
-    "end": "2024-08-16T14:15:00",
+    "start": "2024-08-16T13:45:00Z+0200",
+    "end": "2024-08-16T14:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DEAR MOTHER",
-    "start": "2024-08-16T15:10:00",
-    "end": "2024-08-16T15:40:00",
+    "start": "2024-08-16T15:10:00Z+0200",
+    "end": "2024-08-16T15:40:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "STILLBIRTH",
-    "start": "2024-08-16T16:35:00",
-    "end": "2024-08-16T17:05:00",
+    "start": "2024-08-16T16:35:00Z+0200",
+    "end": "2024-08-16T17:05:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DISENTOMB",
-    "start": "2024-08-16T18:00:00",
-    "end": "2024-08-16T18:30:00",
+    "start": "2024-08-16T18:00:00Z+0200",
+    "end": "2024-08-16T18:30:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NECROTTED",
-    "start": "2024-08-16T19:40:00",
-    "end": "2024-08-16T20:25:00",
+    "start": "2024-08-16T19:40:00Z+0200",
+    "end": "2024-08-16T20:25:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "TENSIDE",
-    "start": "2024-08-16T21:35:00",
-    "end": "2024-08-16T22:20:00",
+    "start": "2024-08-16T21:35:00Z+0200",
+    "end": "2024-08-16T22:20:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "IMPERIUM DEKADENZ",
-    "start": "2024-08-16T23:30:00",
-    "end": "2024-08-17T00:15:00",
+    "start": "2024-08-16T23:30:00Z+0200",
+    "end": "2024-08-17T00:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "CARNATION",
-    "start": "2024-08-17T01:25:00",
-    "end": "2024-08-17T02:10:00",
+    "start": "2024-08-17T01:25:00Z+0200",
+    "end": "2024-08-17T02:10:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Metal Yoga",
-    "start": "2024-08-16T12:20:00",
-    "end": "2024-08-16T12:50:00",
+    "start": "2024-08-16T12:20:00Z+0200",
+    "end": "2024-08-16T12:50:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MØRKET",
-    "start": "2024-08-16T15:30:00",
-    "end": "2024-08-16T16:15:00",
+    "start": "2024-08-16T15:30:00Z+0200",
+    "end": "2024-08-16T16:15:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "HALCYON DAYS",
-    "start": "2024-08-16T16:45:00",
-    "end": "2024-08-16T17:30:00",
+    "start": "2024-08-16T16:45:00Z+0200",
+    "end": "2024-08-16T17:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ERADIKATED",
-    "start": "2024-08-16T18:00:00",
-    "end": "2024-08-16T18:45:00",
+    "start": "2024-08-16T18:00:00Z+0200",
+    "end": "2024-08-16T18:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "PALEHØRSE",
-    "start": "2024-08-16T19:15:00",
-    "end": "2024-08-16T20:00:00",
+    "start": "2024-08-16T19:15:00Z+0200",
+    "end": "2024-08-16T20:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "LOS MALES DEL MUNDO",
-    "start": "2024-08-16T21:00:00",
-    "end": "2024-08-16T21:45:00",
+    "start": "2024-08-16T21:00:00Z+0200",
+    "end": "2024-08-16T21:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ESCUELA GRIND",
-    "start": "2024-08-16T22:15:00",
-    "end": "2024-08-16T23:00:00",
+    "start": "2024-08-16T22:15:00Z+0200",
+    "end": "2024-08-16T23:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Disco",
-    "start": "2024-08-16T23:30:00",
-    "end": "2024-08-17T01:30:00",
+    "start": "2024-08-16T23:30:00Z+0200",
+    "end": "2024-08-17T01:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SAMURAI PIZZA CATS",
-    "start": "2024-08-17T12:00:00",
-    "end": "2024-08-17T12:55:00",
+    "start": "2024-08-17T12:00:00Z+0200",
+    "end": "2024-08-17T12:55:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NESTOR",
-    "start": "2024-08-17T12:55:00",
-    "end": "2024-08-17T13:35:00",
+    "start": "2024-08-17T12:55:00Z+0200",
+    "end": "2024-08-17T13:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "RISE OF THE NORTHSTAR",
-    "start": "2024-08-17T13:35:00",
-    "end": "2024-08-17T14:35:00",
+    "start": "2024-08-17T13:35:00Z+0200",
+    "end": "2024-08-17T14:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ECLIPSE",
-    "start": "2024-08-17T15:00:00",
-    "end": "2024-08-17T15:45:00",
+    "start": "2024-08-17T15:00:00Z+0200",
+    "end": "2024-08-17T15:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ORDEN OGAN",
-    "start": "2024-08-17T16:10:00",
-    "end": "2024-08-17T17:10:00",
+    "start": "2024-08-17T16:10:00Z+0200",
+    "end": "2024-08-17T17:10:00Z+0200",
     "stage": "Main Stage",
     "priority": 6,
     "highlight": true
   },
   {
     "band": "SPIRITBOX",
-    "start": "2024-08-17T17:40:00",
-    "end": "2024-08-17T18:40:00",
+    "start": "2024-08-17T17:40:00Z+0200",
+    "end": "2024-08-17T18:40:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SUBWAY TO SALLY",
-    "start": "2024-08-17T19:10:00",
-    "end": "2024-08-17T20:30:00",
+    "start": "2024-08-17T19:10:00Z+0200",
+    "end": "2024-08-17T20:30:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "HEAVEN SHALL BURN",
-    "start": "2024-08-17T21:15:00",
-    "end": "2024-08-17T22:45:00",
+    "start": "2024-08-17T21:15:00Z+0200",
+    "end": "2024-08-17T22:45:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "KORPIKLAANI",
-    "start": "2024-08-17T23:25:00",
-    "end": "2024-08-18T00:35:00",
+    "start": "2024-08-17T23:25:00Z+0200",
+    "end": "2024-08-18T00:35:00Z+0200",
     "stage": "Main Stage",
     "priority": 10,
     "highlight": true
   },
   {
     "band": "INSOMNIUM",
-    "start": "2024-08-18T01:00:00",
-    "end": "2024-08-18T02:00:00",
+    "start": "2024-08-18T01:00:00Z+0200",
+    "end": "2024-08-18T02:00:00Z+0200",
     "stage": "Main Stage",
     "priority": 0,
     "highlight": true
   },
   {
     "band": "OUR PROMISE",
-    "start": "2024-08-17T11:30:00",
-    "end": "2024-08-17T12:15:00",
+    "start": "2024-08-17T11:30:00Z+0200",
+    "end": "2024-08-17T12:15:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BODYSNATCHER",
-    "start": "2024-08-17T12:55:00",
-    "end": "2024-08-17T13:40:00",
+    "start": "2024-08-17T12:55:00Z+0200",
+    "end": "2024-08-17T13:40:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BEFORE THE DAWN",
-    "start": "2024-08-17T14:20:00",
-    "end": "2024-08-17T15:05:00",
+    "start": "2024-08-17T14:20:00Z+0200",
+    "end": "2024-08-17T15:05:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "UNEARTH",
-    "start": "2024-08-17T15:45:00",
-    "end": "2024-08-17T16:30:00",
+    "start": "2024-08-17T15:45:00Z+0200",
+    "end": "2024-08-17T16:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BURNING WITCHES",
-    "start": "2024-08-17T17:10:00",
-    "end": "2024-08-17T17:55:00",
+    "start": "2024-08-17T17:10:00Z+0200",
+    "end": "2024-08-17T17:55:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ASPHYX",
-    "start": "2024-08-17T18:35:00",
-    "end": "2024-08-17T19:35:00",
+    "start": "2024-08-17T18:35:00Z+0200",
+    "end": "2024-08-17T19:35:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "SODOM",
-    "start": "2024-08-17T20:30:00",
-    "end": "2024-08-17T21:30:00",
+    "start": "2024-08-17T20:30:00Z+0200",
+    "end": "2024-08-17T21:30:00Z+0200",
     "stage": "T-Stage",
     "priority": 5,
     "highlight": true
   },
   {
     "band": "MYRKUR",
-    "start": "2024-08-17T22:25:00",
-    "end": "2024-08-17T23:25:00",
+    "start": "2024-08-17T22:25:00Z+0200",
+    "end": "2024-08-17T23:25:00Z+0200",
     "stage": "T-Stage",
     "priority": 10,
     "highlight": true
   },
   {
     "band": "CULT OF FIRE",
-    "start": "2024-08-18T00:20:00",
-    "end": "2024-08-18T01:20:00",
+    "start": "2024-08-18T00:20:00Z+0200",
+    "end": "2024-08-18T01:20:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ARKONA",
-    "start": "2024-08-18T02:15:00",
-    "end": "2024-08-18T03:00:00",
+    "start": "2024-08-18T02:15:00Z+0200",
+    "end": "2024-08-18T03:00:00Z+0200",
     "stage": "T-Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BRUTAL SPHINCTER",
-    "start": "2024-08-17T12:20:00",
-    "end": "2024-08-17T12:50:00",
+    "start": "2024-08-17T12:20:00Z+0200",
+    "end": "2024-08-17T12:50:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "INSANITY ALERT",
-    "start": "2024-08-17T13:45:00",
-    "end": "2024-08-17T14:15:00",
+    "start": "2024-08-17T13:45:00Z+0200",
+    "end": "2024-08-17T14:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ACRANIUS",
-    "start": "2024-08-17T15:10:00",
-    "end": "2024-08-17T15:40:00",
+    "start": "2024-08-17T15:10:00Z+0200",
+    "end": "2024-08-17T15:40:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "TILINTETGJORT",
-    "start": "2024-08-17T16:35:00",
-    "end": "2024-08-17T17:05:00",
+    "start": "2024-08-17T16:35:00Z+0200",
+    "end": "2024-08-17T17:05:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "BOKASSA",
-    "start": "2024-08-17T18:00:00",
-    "end": "2024-08-17T18:30:00",
+    "start": "2024-08-17T18:00:00Z+0200",
+    "end": "2024-08-17T18:30:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EREB ALTOR",
-    "start": "2024-08-17T19:40:00",
-    "end": "2024-08-17T20:25:00",
+    "start": "2024-08-17T19:40:00Z+0200",
+    "end": "2024-08-17T20:25:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "DYMYTRY",
-    "start": "2024-08-17T21:35:00",
-    "end": "2024-08-17T22:20:00",
+    "start": "2024-08-17T21:35:00Z+0200",
+    "end": "2024-08-17T22:20:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "UNPROCESSED",
-    "start": "2024-08-17T23:30:00",
-    "end": "2024-08-18T00:15:00",
+    "start": "2024-08-17T23:30:00Z+0200",
+    "end": "2024-08-18T00:15:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ROBSE",
-    "start": "2024-08-18T01:25:00",
-    "end": "2024-08-18T02:10:00",
+    "start": "2024-08-18T01:25:00Z+0200",
+    "end": "2024-08-18T02:10:00Z+0200",
     "stage": "Wera Tool Rebel Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Metal Yoga",
-    "start": "2024-08-17T12:20:00",
-    "end": "2024-08-17T12:50:00",
+    "start": "2024-08-17T12:20:00Z+0200",
+    "end": "2024-08-17T12:50:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "RANDALE",
-    "start": "2024-08-17T14:00:00",
-    "end": "2024-08-17T15:00:00",
+    "start": "2024-08-17T14:00:00Z+0200",
+    "end": "2024-08-17T15:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "MAVIS",
-    "start": "2024-08-17T15:30:00",
-    "end": "2024-08-17T16:15:00",
+    "start": "2024-08-17T15:30:00Z+0200",
+    "end": "2024-08-17T16:15:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "AVRALIZE",
-    "start": "2024-08-17T16:45:00",
-    "end": "2024-08-17T17:30:00",
+    "start": "2024-08-17T16:45:00Z+0200",
+    "end": "2024-08-17T17:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "EYES WIDE OPEN",
-    "start": "2024-08-17T18:00:00",
-    "end": "2024-08-17T18:45:00",
+    "start": "2024-08-17T18:00:00Z+0200",
+    "end": "2024-08-17T18:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "VENUES",
-    "start": "2024-08-17T19:15:00",
-    "end": "2024-08-17T20:00:00",
+    "start": "2024-08-17T19:15:00Z+0200",
+    "end": "2024-08-17T20:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "ANGSTSKRÍG",
-    "start": "2024-08-17T21:00:00",
-    "end": "2024-08-17T21:45:00",
+    "start": "2024-08-17T21:00:00Z+0200",
+    "end": "2024-08-17T21:45:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "NYKTOPHOBIA",
-    "start": "2024-08-17T22:15:00",
-    "end": "2024-08-17T23:00:00",
+    "start": "2024-08-17T22:15:00Z+0200",
+    "end": "2024-08-17T23:00:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
   },
   {
     "band": "Disco",
-    "start": "2024-08-17T23:30:00",
-    "end": "2024-08-18T01:30:00",
+    "start": "2024-08-17T23:30:00Z+0200",
+    "end": "2024-08-18T01:30:00Z+0200",
     "stage": "Circus Stage",
     "priority": 0,
     "highlight": false
