@@ -3,49 +3,272 @@
     "band": "SOULPRISON",
     "start": "2024-08-13T17:00:00",
     "end": "2024-08-13T17:45:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "FALL OF SERENITY",
     "start": "2024-08-13T18:15:00",
     "end": "2024-08-13T19:00:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "DEFOCUS",
     "start": "2024-08-13T19:30:00",
     "end": "2024-08-13T20:15:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "SHREDHEAD",
     "start": "2024-08-13T20:45:00",
     "end": "2024-08-13T21:30:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "DISBELIEF",
     "start": "2024-08-13T22:00:00",
     "end": "2024-08-13T23:00:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "Q&A DARK TRANQUILLITY",
     "start": "2024-08-13T23:30:00",
     "end": "2024-08-14T00:30:00",
-    "stage": "Circus",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "BROTHERS OF METAL",
+    "start": "2024-08-14T16:10:00",
+    "end": "2024-08-14T17:10:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "THE AMITY AFFLICTION",
+    "start": "2024-08-14T17:40:00",
+    "end": "2024-08-14T18:40:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "FLOGGING MOLLY",
+    "start": "2024-08-14T19:10:00",
+    "end": "2024-08-14T20:30:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "MESHUGGAH",
+    "start": "2024-08-14T21:15:00",
+    "end": "2024-08-14T22:45:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "LORD OF THE LOST",
+    "start": "2024-08-14T23:25:00",
+    "end": "2024-08-15T00:35:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "ENSLAVED",
+    "start": "2024-08-145T01:00:00",
+    "end": "2024-08-15T02:00:00",
+    "stage": "Main Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "BLASMUSIK ILLENSCHWANG",
+    "start": "2024-08-14T15:00:00",
+    "end": "2024-08-14T16:00:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "SYLOSIS",
+    "start": "2024-08-14T116:50:00",
+    "end": "2024-08-14T17:35:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "OBSCURA",
+    "start": "2024-08-14T18:25:00",
+    "end": "2024-08-14T19:10:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "EMMURE",
+    "start": "2024-08-14T20:00:00",
+    "end": "2024-08-14T20:45:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "EQUILIBRIUM",
+    "start": "2024-08-14T21:35:00",
+    "end": "2024-08-14T22:35:00",
+    "stage": "T-Stage",
+    "priority": 8,
+    "highlight": true
+  },
+  {
+    "band": "PAIN",
+    "start": "2024-08-14T23:25:00",
+    "end": "2024-08-15T00:25:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "PUNK ROCK FACTORY",
+    "start": "2024-08-15T01:15:00",
+    "end": "2024-08-15T02:15:00",
+    "stage": "T-Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "PEST CONTROL",
+    "start": "2024-08-14T16:05:00",
+    "end": "2024-08-14T16:45:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "ANKOR",
+    "start": "2024-08-14T17:40:00",
+    "end": "2024-08-14T18:20:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "VISCERA",
+    "start": "2024-08-14T19:15:00",
+    "end": "2024-08-14T19:55:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "NAKKEKNAEKKER",
+    "start": "2024-08-14T20:50:00",
+    "end": "2024-08-14T21:30:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "Surprise Act",
+    "start": "2024-08-14T22:40:00",
+    "end": "2024-08-14T23:20:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "THRON",
+    "start": "2024-08-15T00:30:00",
+    "end": "2024-08-15T01:10:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "AETHERIAN",
+    "start": "2024-08-15T02:20:00",
+    "end": "2024-08-15T03:00:00",
+    "stage": "Wera Tool Rebel Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "ZERRE",
+    "start": "2024-08-14T18:00:00",
+    "end": "2024-08-14T18:30:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "SUOTANA",
+    "start": "2024-08-14T19:00:00",
+    "end": "2024-08-14T19:30:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "PLAGUEMACE",
+    "start": "2024-08-14T20:00:00",
+    "end": "2024-08-14T20:30:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "EMBRACE YOUR PUNISHMENT",
+    "start": "2024-08-14T21:00:00",
+    "end": "2024-08-14T21:30:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "HEMELBESTORMER",
+    "start": "2024-08-14T22:00:00",
+    "end": "2024-08-14T22:30:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "SPIRE OF LAZARUS",
+    "start": "2024-08-14T23:00:00",
+    "end": "2024-08-14T23:45:00",
+    "stage": "Circus Stage",
+    "priority": 0,
+    "highlight": false
+  },
+  {
+    "band": "FATEFUL FINALITY",
+    "start": "2024-08-15T00:15:00",
+    "end": "2024-08-15T01:00:00",
+    "stage": "Circus Stage",
+    "priority": 0,
     "highlight": false
   },
   {
     "band": "TBD",
-    "start": "2024-08-14T15:00:00",
-    "end": "2024-08-14T20:00:00",
-    "stage": "Circus",
+    "start": "2024-08-15T:00",
+    "end": "2024-08-15T:00",
+    "stage": "Main Stage",
+    "priority": 0,
     "highlight": false
   }
 ]

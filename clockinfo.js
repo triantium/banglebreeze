@@ -1,6 +1,8 @@
+// execute via web ide https://www.espruino.com/ide/#
 require("Storage").write("breeze.info",{
     "id":"breeze",
-    "name":"Breeze",
+    "name":"Running Order Summerbreeze",
     "type":"clock",
-    "src":"breeze.app.js"
+    "src":"breeze.app.js"//,
+    //"icon": "breeze.img"
 });
