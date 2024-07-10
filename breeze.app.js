@@ -16,7 +16,7 @@ function zeroPad(num, places) {
 }
 
 
-function drawBands( bands){
+function drawBands( bands, currentTime ){
 
     // clear up bandspace
     g.clearRect(0 , Y + 24 ,175 , 175);
@@ -24,6 +24,12 @@ function drawBands( bands){
     for (let index in bands) {
         if (index >= 9) break;
         band = bands[index];
+        // Check if Band is Playing
+        // if (band.starttime.getTime() < currentTime.getTime() ){
+        //     g.setColor('#ff0000');
+        // } else {
+        //     g.setColor('#ffffff');
+        // }
         let starttime = `${zeroPad(band.starttime.getHours(), 2)}:${zeroPad(band.starttime.getMinutes(), 2)}`;
         g.setFont("6x8");
         g.setFontAlign(-1, 1); // align center bottom
@@ -80,7 +86,7 @@ function draw() {
         return order;
     });
 
-    drawBands(filtered);
+    drawBands(filtered,d);
 
 }
 
